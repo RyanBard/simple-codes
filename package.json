@@ -15,7 +15,6 @@
   },
   "devDependencies": {
     "chai": "^4.5.0",
-    "mocha": "^10.8.2",
-    "node-fetch": "^2.6.1"
+    "mocha": "^10.8.2"
   }
 }
