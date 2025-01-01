@@ -1,3 +1,5 @@
+// TODO - fix issues around multiple spaces being in the message?
+
 const convertToDecode = dictionary => Object.keys(dictionary)
     .map(key => [dictionary[key], key])
     .reduce((acc, val) => {
