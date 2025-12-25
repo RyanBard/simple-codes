@@ -10,7 +10,7 @@
   "author": "Ryan Bard <john.ryan.bard@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "normalize-url": "^5.3.0"
   },
   "devDependencies": {
